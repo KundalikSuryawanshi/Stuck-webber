@@ -10,4 +10,4 @@ if($connection){
 else {
   echo"Error";
 }
-?>
+?>  
