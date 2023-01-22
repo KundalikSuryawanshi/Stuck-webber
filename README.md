@@ -20,6 +20,21 @@
 
  - Public repository anyone can contribute in it.🤞
  
+ ##Screenshots
+ 
+ - Landing page
+ 
+ ![11](https://user-images.githubusercontent.com/108235751/213899704-9c22449c-d93b-4c26-927f-570082e471ac.png)
+ 
+ - User reports
+ 
+ ![12](https://user-images.githubusercontent.com/108235751/213899721-618c91e7-8d15-46c4-b812-b7816ffdb815.png)
+
+ - Question Answer Reports
+ 
+ ![13](https://user-images.githubusercontent.com/108235751/213899732-6a2beee9-8665-4e96-8553-7999bf1e1338.png)
+
+ 
 ## Installation
 
 How to Download and set up the Project
