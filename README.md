@@ -20,7 +20,7 @@
 
  - Public repository anyone can contribute in it.🤞
  
- ##Screenshots
+ ## Screenshots
  
  - Landing page
  
